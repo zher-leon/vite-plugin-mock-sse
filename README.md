@@ -7,7 +7,7 @@
 ## Install 
 
 ```
-npm install i mockjs -D
+npm install mockjs -D
 npm install vite-plugin-mock-sse -D
 ```
 
